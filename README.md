@@ -21,62 +21,90 @@
 <p align="left">
 - 🖥️ 1 year experience in IT Support<br>
 - 🎓 3rd year university student<br>
-- 🌱 Currently learning and growing in the tech field<br>
+- 🌱 Currently learning and growing in the techz field<br>
 - 📍 Based in Cambodia
 </p>
 
-<h3 align="left">📜 Certifications</h3>
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
-<p align="left">
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="image/Networking Basic.pdf">
-        <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="40" height="40"/><br>
-        <strong>Cisco</strong><br>
-        <span>Network Basics</span>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="image/JavaScript.pdf">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><br>
-        <strong>JavaScript</strong><br>
-        <span>Programming Certification</span>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="image/C++.pdf">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><br>
-        <strong>C++</strong><br>
-        <span>Programming Certification</span>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="image/C%23.pdf">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/><br>
-        <strong>C#</strong><br>
-        <span>Development Certification</span>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="image/Python 3.pdf">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><br>
-        <strong>Python</strong><br>
-        <span>Programming Certification</span>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <!-- Empty cell for alignment -->
-    </td>
-  </tr>
-</table>
-</p>
+<h3 align="center">📜 Professional Certifications</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <a href="image/Networking Basic.pdf">
+          <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="50" height="50"/>
+          <br>
+          <b>Cisco</b>
+          <br>
+          <span style="color: #2c3e50;">Network Basics</span>
+          <br>
+          <sub>📅 2024</sub>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="image/JavaScript.pdf">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+          <br>
+          <b style="color: #f7df1e;">JavaScript</b>
+          <br>
+          <span style="color: #2c3e50;">Programming</span>
+          <br>
+          <sub>📅 2024</sub>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="image/C++.pdf">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+          <br>
+          <b style="color: #00599c;">C++</b>
+          <br>
+          <span style="color: #2c3e50;">Programming</span>
+          <br>
+          <sub>📅 2024</sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <a href="image/C%23.pdf">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+          <br>
+          <b style="color: #68217a;">C#</b>
+          <br>
+          <span style="color: #2c3e50;">Development</span>
+          <br>
+          <sub>📅 2024</sub>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="image/Python 3.pdf">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+          <br>
+          <b style="color: #3776ab;">Python</b>
+          <br>
+          <span style="color: #2c3e50;">Programming</span>
+          <br>
+          <sub>📅 2024</sub>
+        </a>
+      </td>
+      <td align="center" width="200" style="background: #f8f9fa; border-radius: 10px;">
+        <div style="padding: 10px;">
+          <span style="font-size: 2em;">🎯</span>
+          <br>
+          <b>More</b>
+          <br>
+          <span style="color: #6c757d;">In Progress</span>
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Stats -->
+  <p>
+    <img src="https://img.shields.io/badge/Total_Certifications-5-2ea44f?style=for-the-badge" alt="5 certifications">
+    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Active">
+  </p>
+</div>
 
 <h3 align="left">🛠️ IT Support Skills</h3>
 <p align="left">
