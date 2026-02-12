@@ -26,6 +26,11 @@
 </p>
 
 <h3 align="left">📜 Certifications</h3>
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
 <p align="left">
 <table>
   <tr>
