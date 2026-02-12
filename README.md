@@ -25,21 +25,21 @@
 <table>
   <tr>
     <td align="center" width="200">
-      <a href="images/Networking Basic.pdf">
+      <a href="image/Networking Basic.pdf">
         <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="40" height="40"/><br>
         <strong>Cisco</strong><br>
         <span>Network Basics</span>
       </a>
     </td>
     <td align="center" width="200">
-      <a href="images/JavaScript.pdf">
+      <a href="image/JavaScript.pdf">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><br>
         <strong>JavaScript</strong><br>
         <span>Programming Certification</span>
       </a>
     </td>
     <td align="center" width="200">
-      <a href="images/C++.pdf">
+      <a href="image/C++.pdf">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><br>
         <strong>C++</strong><br>
         <span>Programming Certification</span>
@@ -48,14 +48,14 @@
   </tr>
   <tr>
     <td align="center" width="200">
-      <a href="images/C%23.pdf">
+      <a href="image/C%23.pdf">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/><br>
         <strong>C#</strong><br>
         <span>Development Certification</span>
       </a>
     </td>
     <td align="center" width="200">
-      <a href="images/Python 3.pdf">
+      <a href="image/Python 3.pdf">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><br>
         <strong>Python</strong><br>
         <span>Programming Certification</span>
