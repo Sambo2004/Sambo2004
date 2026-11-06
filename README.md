@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sambo</h1>
-<h3 align="center">A passionate IT Support Specialist from Cambodia</h3>
+<h3 align="center">A passionate IT Support from Cambodia</h3>
 
 <p align="center">
   <img src="image/sum_sambo_certificate_card.png" alt="Sambo certificate card" width="600"/>
@@ -22,53 +22,7 @@
 - 📍 Based in Cambodia
 </p>
 
-<h3 align="left">📜 Certifications</h3>
-<table>
-  <tr>
-    <td align="center" width="200" style="border-radius: 10px; border: 1px solid #e1e4e8; padding: 15px;">
-      <a href="image/Networking%20Basic.pdf" style="text-decoration: none; color: inherit;">
-        <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="50" height="50"/><br>
-        <strong style="text-decoration: underline; text-underline-offset: 5px;">Cisco</strong><br>
-        <span style="color: #586069;">Network Basics</span>
-      </a>
-    </td>
-    <td align="center" width="200" style="border-radius: 10px; border: 1px solid #e1e4e8; padding: 15px;">
-      <a href="image/JavaScript.pdf" style="text-decoration: none; color: inherit;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/><br>
-        <strong style="text-decoration: underline; text-underline-offset: 5px;">JavaScript</strong><br>
-        <span style="color: #586069;">Programming Certification</span>
-      </a>
-    </td>
-    <td align="center" width="200" style="border-radius: 10px; border: 1px solid #e1e4e8; padding: 15px;">
-      <a href="image/C++.pdf" style="text-decoration: none; color: inherit;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/><br>
-        <strong style="text-decoration: underline; text-underline-offset: 5px;">C++</strong><br>
-        <span style="color: #586069;">Programming Certification</span>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" style="border-radius: 10px; border: 1px solid #e1e4e8; padding: 15px;">
-      <a href="image/C%23.pdf" style="text-decoration: none; color: inherit;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/><br>
-        <strong style="text-decoration: underline; text-underline-offset: 5px;">C#</strong><br>
-        <span style="color: #586069;">Development Certification</span>
-      </a>
-    </td>
-    <td align="center" width="200" style="border-radius: 10px; border: 1px solid #e1e4e8; padding: 15px;">
-      <a href="image/Python%203.pdf" style="text-decoration: none; color: inherit;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/><br>
-        <strong style="text-decoration: underline; text-underline-offset: 5px;">Python</strong><br>
-        <span style="color: #586069;">Programming Certification</span>
-      </a>
-    </td>
-    <td align="center" width="200" style="border-radius: 10px; border: 1px solid #e1e4e8; padding: 15px; background-color: #f6f8fa;">
-      <a href="#" style="text-decoration: none; color: inherit;">
-        <span style="color: #24292e; font-style: italic;">✨ More coming soon</span>
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 <h3 align="left">🛠️ IT Support Skills</h3>
 <p align="left">
